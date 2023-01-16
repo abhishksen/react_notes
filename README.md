@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# react_notes
 
 This is a simple notes app using react js best practices 
 
